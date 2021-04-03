@@ -141,10 +141,10 @@ but the API requires that the matrices are in the CSC format.
 
 **CSC matrix解释参考资料**
 
-[SciPy.org官网说明]( https://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.csc_matrix.html )
+[SciPy.org官网说明]( https://docs.scipy.org/doc/scipy/reference/generated/scipy.sparse.csc_matrix.html)
 
-[SciPy课堂]( http://scipy-lectures.org/advanced/scipy_sparse/csc_matrix.html )
+[SciPy课堂]( http://scipy-lectures.org/advanced/scipy_sparse/csc_matrix.html)
 
 [苹果开发者指南说明]( https://developer.apple.com/documentation/accelerate/creating_sparse_matrices )
 
-[中文博客]( https://www.cnblogs.com/rollenholt/p/5960523.html )
+[中文博客]( https://www.cnblogs.com/rollenholt/p/5960523.html)
